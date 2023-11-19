@@ -79,7 +79,7 @@ const WifiMarauderItem items[NUM_MENU_ITEMS] = {
      {"ChromeConnectEZYT", "Apple Crash", "RickRollTV", "RokuConnect", "RokuKeySpam", "YTVConnect"},
      6,
      {"ChromeConnectEZYT", "applecrash -s", "RickRollTV", "RokuConnect", "RokuKeySpam", "YTVConnect"},
-     TOGGLE_ARGS,
+     INPUT_ARGS,
      FOCUS_CONSOLE_END,
      SHOW_STOPSCAN_TIP},
     {"Evil Portal",
